@@ -1,2 +1,2 @@
 # TaxJarExercise
-Extract TaxCalculatorApp Zip file to access project solution.
+Extract TaxCalculatorApp.zip file to access project solution.
